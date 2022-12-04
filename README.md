@@ -1,7 +1,10 @@
-### Hi there 👋
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">junior Ios developer, IT news writer from Russia 🇷🇺</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
@@ -13,6 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexey&theme=dark&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <!--
 **AlexeyEkimow/AlexeyEkimow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
